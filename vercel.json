@@ -2,7 +2,7 @@
     "builds": [
         {
             "src": "simple_demo.py",
-            "use": "@vercel/python"
+            "use": "@vercel/python3.11.9"
         }
     ],
     "routes": [
